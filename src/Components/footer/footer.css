@@ -1,0 +1,38 @@
+.footer-bar {
+    padding: 24px 0 16px 0;
+}
+.main-footer {
+    padding: 65px 80px 30px 80px;
+}
+.footer-logo {
+    width: 96px;
+    height: 30px;
+}
+.footer-Hr {
+    width: 90%;
+    background-color: #EEEEEE;
+}    
+.color-light {
+    color: #5D5D5D;
+}
+.main-footer a,
+.Contact-details{
+    color: #5D5D5D;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.Contact-details {
+    font-size: 16px;
+    font-weight: 500;
+}
+.play-store {
+   max-width: 135px;
+    
+}
+.play-store img{
+    width: 100%;
+    margin-right: 10px;
+}
+.mb-24 {
+    margin-bottom: 24px;
+}

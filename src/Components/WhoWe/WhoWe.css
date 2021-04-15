@@ -1,0 +1,39 @@
+.who-we-left {
+    background: #23d3d3;
+    min-height: 497px;
+    box-sizing: border-box;
+}
+.who-we-left_inner-col {
+    max-width: 470px;
+    margin: 0 20px;
+}
+.who-we-left_inner-col,
+.who-we-right img{
+    min-height: 497px;
+    object-fit: cover;
+}
+.title-who { 
+    font-size: 36px;
+    font-weight: 500;
+}
+.read-more {
+    border-radius: 30px;
+    background-color: #ffffff;
+    padding: 12px 24px;
+}
+.mb-18 {
+    margin-bottom: 18px;
+}
+.pb-32 {
+    padding-bottom: 22px;
+}
+@media(min-width: 1026px) {
+    .who-we-left_inner-col {
+        margin-left: 87px;
+    }
+}
+@media(max-width: 768px){
+    .who-we-right{
+        display: none;
+    }
+}

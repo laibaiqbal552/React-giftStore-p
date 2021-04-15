@@ -1,0 +1,21 @@
+.site-card-wrapper {
+    padding: 30px;
+  }
+  .card-img {
+      width: 270px;
+  }
+  .card-radius {
+    border-radius: 100px;
+  }
+  .container {
+    max-width: 1440px;
+}
+.paddingtrending {
+  padding: 86px 0;
+}
+.placeTitle {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.4;
+    margin-bottom: 20px;
+}

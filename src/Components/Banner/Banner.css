@@ -1,0 +1,23 @@
+.banner {
+  background-image: url(bannerimg.jpg);
+  height: 640px;
+  max-width: 1440px;
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+.innerbanner {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ min-height: 640px;
+ flex-direction: column;
+}
+.innerbanner h1 {
+  font-size: 72px;
+  font-weight: 500;
+}
+.innerbanner p {
+font-size: 24px;
+    font-weight: 500;
+}
